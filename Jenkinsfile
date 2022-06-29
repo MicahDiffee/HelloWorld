@@ -1,18 +1,17 @@
-'common@1.0.0-100#'common@1.0.0-100!'common@1.0.0-100g'common@1.0.0-100r'common@1.0.0-100o'common@1.0.0-100o'common@1.0.0-100v'common@1.0.0-100y'common@1.0.0-100
-'common@1.0.0-100
-'common@1.0.0-100@'common@1.0.0-100L'common@1.0.0-100i'common@1.0.0-100b'common@1.0.0-100r'common@1.0.0-100a'common@1.0.0-100r'common@1.0.0-100y'common@1.0.0-100('common@1.0.0-100''common@1.0.0-100c'common@1.0.0-100o'common@1.0.0-100m'common@1.0.0-100m'common@1.0.0-100o'common@1.0.0-100n'common@1.0.0-100@'common@1.0.0-1001'common@1.0.0-100.'common@1.0.0-1000'common@1.0.0-100.'common@1.0.0-1004'common@1.0.0-1000'common@1.0.0-1008'common@1.0.0-100''common@1.0.0-100)'common@1.0.0-100 'common@1.0.0-100_'common@1.0.0-100
-'common@1.0.0-100
-'common@1.0.0-100i'common@1.0.0-100m'common@1.0.0-100p'common@1.0.0-100o'common@1.0.0-100r'common@1.0.0-100t'common@1.0.0-100 'common@1.0.0-100c'common@1.0.0-100o'common@1.0.0-100m'common@1.0.0-100.'common@1.0.0-100l'common@1.0.0-100i'common@1.0.0-100v'common@1.0.0-100i'common@1.0.0-100n'common@1.0.0-100g'common@1.0.0-100a'common@1.0.0-100s'common@1.0.0-100o'common@1.0.0-100n'common@1.0.0-100e'common@1.0.0-100.'common@1.0.0-100e'common@1.0.0-100n'common@1.0.0-100u'common@1.0.0-100m'common@1.0.0-100s'common@1.0.0-100.'common@1.0.0-100G'common@1.0.0-100k'common@1.0.0-100e'common@1.0.0-100C'common@1.0.0-100l'common@1.0.0-100u'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100e'common@1.0.0-100r'common@1.0.0-100
-'common@1.0.0-100
-'common@1.0.0-100g'common@1.0.0-100k'common@1.0.0-100e'common@1.0.0-100J'common@1.0.0-100a'common@1.0.0-100v'common@1.0.0-100a'common@1.0.0-100P'common@1.0.0-100i'common@1.0.0-100p'common@1.0.0-100e'common@1.0.0-100l'common@1.0.0-100i'common@1.0.0-100n'common@1.0.0-100e'common@1.0.0-100 'common@1.0.0-100('common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100n'common@1.0.0-100a'common@1.0.0-100m'common@1.0.0-100e'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100''common@1.0.0-100c'common@1.0.0-100e'common@1.0.0-100n'common@1.0.0-100t'common@1.0.0-100r'common@1.0.0-100a'common@1.0.0-100l'common@1.0.0-100''common@1.0.0-100,'common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100c'common@1.0.0-100l'common@1.0.0-100u'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100e'common@1.0.0-100r'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100G'common@1.0.0-100k'common@1.0.0-100e'common@1.0.0-100C'common@1.0.0-100l'common@1.0.0-100u'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100e'common@1.0.0-100r'common@1.0.0-100.'common@1.0.0-100U'common@1.0.0-100S'common@1.0.0-100_'common@1.0.0-100C'common@1.0.0-100E'common@1.0.0-100N'common@1.0.0-100T'common@1.0.0-100R'common@1.0.0-100A'common@1.0.0-100L'common@1.0.0-1001'common@1.0.0-100,'common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100t'common@1.0.0-100e'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100['common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100	'common@1.0.0-100t'common@1.0.0-100a'common@1.0.0-100s'common@1.0.0-100k'common@1.0.0-100s'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100"'common@1.0.0-100t'common@1.0.0-100e'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100 'common@1.0.0-100i'common@1.0.0-100n'common@1.0.0-100t'common@1.0.0-100e'common@1.0.0-100g'common@1.0.0-100r'common@1.0.0-100a'common@1.0.0-100t'common@1.0.0-100i'common@1.0.0-100o'common@1.0.0-100n'common@1.0.0-100T'common@1.0.0-100e'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100D'common@1.0.0-100o'common@1.0.0-100c'common@1.0.0-100k'common@1.0.0-100e'common@1.0.0-100r'common@1.0.0-100 'common@1.0.0-100f'common@1.0.0-100u'common@1.0.0-100n'common@1.0.0-100c'common@1.0.0-100t'common@1.0.0-100i'common@1.0.0-100o'common@1.0.0-100n'common@1.0.0-100a'common@1.0.0-100l'common@1.0.0-100T'common@1.0.0-100e'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100D'common@1.0.0-100o'common@1.0.0-100c'common@1.0.0-100k'common@1.0.0-100e'common@1.0.0-100r'common@1.0.0-100"'common@1.0.0-100,'common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100	'common@1.0.0-100r'common@1.0.0-100e'common@1.0.0-100q'common@1.0.0-100u'common@1.0.0-100i'common@1.0.0-100r'common@1.0.0-100e'common@1.0.0-100s'common@1.0.0-100C'common@1.0.0-100o'common@1.0.0-100m'common@1.0.0-100p'common@1.0.0-100o'common@1.0.0-100s'common@1.0.0-100e'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100t'common@1.0.0-100r'common@1.0.0-100u'common@1.0.0-100e'common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100]'common@1.0.0-100,'common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100g'common@1.0.0-100r'common@1.0.0-100a'common@1.0.0-100d'common@1.0.0-100l'common@1.0.0-100e'common@1.0.0-100P'common@1.0.0-100u'common@1.0.0-100b'common@1.0.0-100l'common@1.0.0-100i'common@1.0.0-100s'common@1.0.0-100h'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100t'common@1.0.0-100r'common@1.0.0-100u'common@1.0.0-100e'common@1.0.0-100,'common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100s'common@1.0.0-100w'common@1.0.0-100a'common@1.0.0-100g'common@1.0.0-100g'common@1.0.0-100e'common@1.0.0-100r'common@1.0.0-100P'common@1.0.0-100u'common@1.0.0-100b'common@1.0.0-100l'common@1.0.0-100i'common@1.0.0-100s'common@1.0.0-100h'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100t'common@1.0.0-100r'common@1.0.0-100u'common@1.0.0-100e'common@1.0.0-100,'common@1.0.0-100
-'common@1.0.0-100	'common@1.0.0-100c'common@1.0.0-100l'common@1.0.0-100o'common@1.0.0-100u'common@1.0.0-100d'common@1.0.0-100T'common@1.0.0-100e'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100J'common@1.0.0-100o'common@1.0.0-100b'common@1.0.0-100N'common@1.0.0-100a'common@1.0.0-100m'common@1.0.0-100e'common@1.0.0-100:'common@1.0.0-100 'common@1.0.0-100''common@1.0.0-100c'common@1.0.0-100e'common@1.0.0-100n'common@1.0.0-100t'common@1.0.0-100r'common@1.0.0-100a'common@1.0.0-100l'common@1.0.0-100-'common@1.0.0-100c'common@1.0.0-100l'common@1.0.0-100o'common@1.0.0-100u'common@1.0.0-100d'common@1.0.0-100-'common@1.0.0-100t'common@1.0.0-100e'common@1.0.0-100s'common@1.0.0-100t'common@1.0.0-100''common@1.0.0-100
-'common@1.0.0-100)'common@1.0.0-100
-'common@1.0.0-100
+#!groovy
+
+@Library('common@1.0.408') _
+
+import com.livingasone.enums.GkeCluster
+
+gkeJavaPipeline (
+	name: 'central',
+	cluster: GkeCluster.US_CENTRAL1,
+	test: [
+		tasks: "test integrationTestDocker functionalTestDocker",
+		requiresCompose: true
+	],
+	gradlePublish: true,
+	swaggerPublish: true,
+	cloudTestJobName: 'central-cloud-test'
+)
