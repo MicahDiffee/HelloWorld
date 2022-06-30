@@ -1,6 +1,6 @@
 #!groovy
 
-@Library('common@1.0.111') _
+@Library('common@1.0.112') _
 
 import com.livingasone.enums.GkeCluster
 
