@@ -1,3 +1,4 @@
+/*
 #!groovy
 
 @Library('common@1.0.112') _
@@ -15,3 +16,4 @@ gkeJavaPipeline (
 	swaggerPublish: true,
 	cloudTestJobName: 'central-cloud-test'
 )
+*/
